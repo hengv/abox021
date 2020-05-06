@@ -5,4 +5,4 @@ metadata:
 spec:
   peers:
   - mtls:
-      mode: PERMISSIVE
+      mode: STRICT
